@@ -8,28 +8,28 @@ SoloPerm turns your Mac into a private home or office cloud for managing busines
 
 Run SoloPerm on your Mac and access your information from Android phones, iPhones, tablets, Windows computers, and other Macs using a web browser.
 
-Your data stays on your own computer—not on someone else's servers.
+Your data stays on your own computer - not on someone else's servers.
 
 ## One Mac. All Your Devices.
 
-- **Private cloud** — Your Mac hosts the application and stores your records.
-- **Cross-platform access** — Use any device with a modern web browser on your local network.
-- **QR code connection** — Scan the QR code displayed by SoloPerm to connect from your phone or tablet.
-- **Remote access** — Connect securely from anywhere through your own VPN.
-- **Local data storage** — No third-party cloud storage or cloud account required.
-- **No subscriptions** — One free module and optional one-time purchases.
-- **Modular design** — Install only the functionality you need.
-- **Data portability** — CSV import, optional export, and recovery capabilities.
+- **Private cloud** - Your Mac hosts the application and stores your records.
+- **Cross-platform access** - Use any device with a modern web browser on your local network.
+- **QR code connection** - Scan the QR code displayed by SoloPerm to connect from your phone or tablet.
+- **Remote access** - Connect securely from anywhere through your own VPN.
+- **Local data storage** - No third-party cloud storage or cloud account required.
+- **No subscriptions** - One free module and optional one-time purchases.
+- **Modular design** - Install only the functionality you need.
+- **Data portability** - CSV import, optional export, and recovery capabilities.
 
 No separate mobile application is required.
 
 ## Available Modules
 
-- **Bookkeeping** — Track income, expenses, deductions, and generate reports.
-- **Invoices** — Create professional invoices and manage their status.
-- **Attachments** — Keep supporting documents together with your records.
-- **CSV Import** — Bring existing records into SoloPerm.
-- **CSV Export** — Export your records for use in other applications.
+- **Bookkeeping** - Track income, expenses, deductions, and generate reports.
+- **Invoices** - Create professional invoices and manage their status.
+- **Attachments** - Keep supporting documents together with your records.
+- **CSV Import** - Bring existing records into SoloPerm.
+- **CSV Export** - Export your records for use in other applications.
 
 Additional modules can be installed as your needs grow.
 
